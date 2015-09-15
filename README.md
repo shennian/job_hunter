@@ -10,6 +10,6 @@ a simple search tool for my college job information website.
 ###Dependencies
 + requests
 + BeautifulSoup
-+ jiaba
++ jieba
 + pure css
 + my simple http server-Hobird
